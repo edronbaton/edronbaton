@@ -1,9 +1,6 @@
 <h1 align="center">Hello! I'm Kriva</h1>
 <h3 align="center">Software developer with a passion for Python and web programming. My GitHub repository is a reflection of my enthusiasm for creating programs an</h3>
 
-<h2> 👨‍💻 All of my projects are available at</h2> [https://t.me/+6VmdV3jwm984OWU0](https://t.me/+6VmdV3jwm984OWU0)
-<h2> 📫 How to reach me **edronbaton@proton.me**</h2>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
