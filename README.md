@@ -7,4 +7,6 @@ As a seasoned web developer from Ukraine with over six decades of professional e
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=edronbaton&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
