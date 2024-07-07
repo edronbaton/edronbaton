@@ -7,3 +7,18 @@ As a seasoned web developer from Ukraine with over six decades of professional e
 
 ![snake animation](https://github.com/edronbaton/edronbaton/blob/output/github-contribution-grid-snake2.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/edronbaton/edronbaton/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/edronbaton/edronbaton/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/edronbaton/edronbaton/output/github-contribution-grid-snake.svg"
+  />
+</picture>
