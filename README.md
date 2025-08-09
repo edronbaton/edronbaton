@@ -1,4 +1,4 @@
-# 🔅 About Me:
+# 👤 About Me:
 As a seasoned web developer from Ukraine with over six decades of professional experience, I possess a comprehensive understanding of web development principles. My expertise encompasses a broad range of technologies and platforms, enabling me to craft innovative and impactful web solutions.<br>
 
 
